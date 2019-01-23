@@ -41,13 +41,13 @@ let TubeTab: number[] = [
 enum EFGesture {
     //% block=None
     None = 0,
-    //% block=Right
-    Right = 1,
     //% block=Left
+    Right = 1,
+    //% block=Right
     Left = 2,
-    //% block=Up
-    Up = 3,
     //% block=Down
+    Up = 3,
+    //% block=Up
     Down = 4,
     //% block=Forward
     Forward = 5,
@@ -202,4 +202,4 @@ namespace gesture {
     }
 
 
-} 
+}
