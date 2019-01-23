@@ -1,14 +1,14 @@
 {
-    "name": "ESP8266_IoT",
+    "name": "Gesture",
     "version": "1.0.0",
-    "description": "ESP8266 IoT package by ELECFREAKS, CLASSROOM and Tinkercademy.",
+    "description": "Gesture package",
     "license": "MIT",
     "dependencies": {
         "core": "*"
     },
     "files": [
         "README.md",
-        "ESP8266.ts"
+        "Gesture.ts"
     ],
     "testFiles": [
         "tests.ts"
